@@ -71,4 +71,4 @@ int main() {
   cout << "Perimetarot na triagolnikot e: " << rightTriangle.perimeter() << endl;
 
   return 0;
-}
+} 
