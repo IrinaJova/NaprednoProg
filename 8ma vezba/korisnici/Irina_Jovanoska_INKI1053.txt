@@ -1,0 +1,21 @@
+Odgovor: c
+Odgovor: a
+Odgovor: c
+Odgovor: a
+Odgovor: b
+Odgovor: b
+Odgovor: a
+Odgovor: b
+Odgovor: c
+Odgovor: b
+Odgovor: c
+Odgovor: a
+Vreme na zapocnuvanje na testot: 23-04-2023 18:34:16
+*************************************
+Ime:Irina
+Prezime: Jovanoska
+Indeks: INKI1053
+Bodovi: 110
+Ocenka: 10
+*************************************
+Vreme na zavrsuvanje na testot: 23-04-2023 18:34:41

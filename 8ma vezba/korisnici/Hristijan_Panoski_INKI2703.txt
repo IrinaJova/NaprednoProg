@@ -1,0 +1,21 @@
+Odgovor: c
+Odgovor: a
+Odgovor: a
+Odgovor: a
+Odgovor: c
+Odgovor: c
+Odgovor: c
+Odgovor: c
+Odgovor: a
+Odgovor: b
+Odgovor: b
+Odgovor: b
+Vreme na zapocnuvanje na testot: 23-04-2023 18:37:01
+*************************************
+Ime:Hristijan
+Prezime: Panoski
+Indeks: INKI2703
+Bodovi: 50
+Ocenka: 5
+*************************************
+Vreme na zavrsuvanje na testot: 23-04-2023 18:37:21

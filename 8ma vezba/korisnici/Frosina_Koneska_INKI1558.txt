@@ -1,0 +1,21 @@
+Odgovor: a
+Odgovor: a
+Odgovor: a
+Odgovor: a
+Odgovor: b
+Odgovor: b
+Odgovor: c
+Odgovor: b
+Odgovor: a
+Odgovor: b
+Odgovor: c
+Odgovor: a
+Vreme na zapocnuvanje na testot: 23-04-2023 18:36:02
+*************************************
+Ime:Frosina
+Prezime: Koneska
+Indeks: INKI1558
+Bodovi: 90
+Ocenka: 8
+*************************************
+Vreme na zavrsuvanje na testot: 23-04-2023 18:36:26
