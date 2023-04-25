@@ -33,7 +33,7 @@ istream& operator>>(istream& in, Date& d) {
 ostream& operator<<(ostream& out, const Date& d) {
     out << "Date: " << d.day << "/" << d.month << "/" << d.year << " ";
     out << "Time: " << d.hour << ":" << d.minute << ":" << d.second << endl;
-    return out;
+    return out; 
 }
 
 int main() {
